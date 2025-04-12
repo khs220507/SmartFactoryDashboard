@@ -5,6 +5,8 @@
   text-align: center;
 }
 
+
+
 .logo {
   height: 6em;
   padding: 1.5em;
@@ -40,3 +42,8 @@
 .read-the-docs {
   color: #888;
 }
+
+body {
+  background-color:  #1a202c; /* 덜 다크한 회색 (#4a5568는 TailwindCSS의 gray-700) */
+}
+
